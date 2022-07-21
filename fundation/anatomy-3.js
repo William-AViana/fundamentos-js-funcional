@@ -3,7 +3,7 @@ const increment1 = function (n) {
   return n + 1
 }
 
-// Arroy function is always anonymous
+// Arrow function is always anonymous
 const increment2 = (n) => {
   return n + 1
 }
