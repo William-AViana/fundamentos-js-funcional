@@ -1,4 +1,4 @@
-// Function delaration
+// Function declaration
 
 function sayHello() {
   console.log('Hello!')
